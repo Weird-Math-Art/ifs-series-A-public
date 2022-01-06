@@ -16,4 +16,4 @@ will create a file `output.py` in the same directory containing your image.
 
 ---
 
-Further information can be found at [Weird Math Art](https://weirdmathart.com)
+Further information can be found at [weirdmathart.com](https://weirdmathart.com).
